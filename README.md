@@ -1,7 +1,8 @@
-# MSBD6000H Covid19 NER
+# MSBD6000H Project 2: Covid19 NER
 
 This repo is for the kaggle inclass project ["ML4NLP-Covid19 NER"](https://www.kaggle.com/c/ml4nlp-covid19ner/overview)  
 Team name: NLP Noobs  
+Final rank: [3rd](https://www.kaggle.com/c/ml4nlp-covid19ner/leaderboard)
 
 ## Dependency
  - pytorch='1.8.0'
